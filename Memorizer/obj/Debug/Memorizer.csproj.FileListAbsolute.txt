@@ -1,0 +1,20 @@
+D:\Visual C#\Nowy folder\Memorizer\obj\Debug\Memorizer.csprojAssemblyReference.cache
+D:\Visual C#\Nowy folder\Memorizer\obj\Debug\Memorizer.Form1.resources
+D:\Visual C#\Nowy folder\Memorizer\obj\Debug\Memorizer.Properties.Resources.resources
+D:\Visual C#\Nowy folder\Memorizer\obj\Debug\Memorizer.csproj.GenerateResource.cache
+D:\Visual C#\Nowy folder\Memorizer\obj\Debug\Memorizer.csproj.CoreCompileInputs.cache
+D:\Visual C#\Nowy folder\Memorizer\bin\Debug\Memorizer.exe.config
+D:\Visual C#\Nowy folder\Memorizer\bin\Debug\Memorizer.exe
+D:\Visual C#\Nowy folder\Memorizer\bin\Debug\Memorizer.pdb
+D:\Visual C#\Nowy folder\Memorizer\obj\Debug\Memorizer.exe
+D:\Visual C#\Nowy folder\Memorizer\obj\Debug\Memorizer.pdb
+D:\Visual C#\Memorizer\Memorizer\bin\Debug\Memorizer.exe.config
+D:\Visual C#\Memorizer\Memorizer\bin\Debug\Memorizer.exe
+D:\Visual C#\Memorizer\Memorizer\bin\Debug\Memorizer.pdb
+D:\Visual C#\Memorizer\Memorizer\obj\Debug\Memorizer.csprojAssemblyReference.cache
+D:\Visual C#\Memorizer\Memorizer\obj\Debug\Memorizer.Form1.resources
+D:\Visual C#\Memorizer\Memorizer\obj\Debug\Memorizer.Properties.Resources.resources
+D:\Visual C#\Memorizer\Memorizer\obj\Debug\Memorizer.csproj.GenerateResource.cache
+D:\Visual C#\Memorizer\Memorizer\obj\Debug\Memorizer.csproj.CoreCompileInputs.cache
+D:\Visual C#\Memorizer\Memorizer\obj\Debug\Memorizer.exe
+D:\Visual C#\Memorizer\Memorizer\obj\Debug\Memorizer.pdb
